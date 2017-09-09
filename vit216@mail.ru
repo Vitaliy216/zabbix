@@ -5,8 +5,8 @@
 
 #sudo su
 #apt-get update -y && apt-get upgrade -y && apt-get install git -y
-#git clone https://github.com/catonrug/raspbian-zabbix-3.git && cd raspbian-zabbix-3 && chmod +x agent-install.sh server-install.sh
-#./server-install.sh
+#git clone https://github.com/Vitaliy216/zabbix.git && cd zabbix && chmod +x agent-install.sh server-install.sh
+#./server-install-new.sh
 
 apt-get update -y && apt-get upgrade -y
 apt-get install mysql-server -y
