@@ -5,7 +5,7 @@
 
 #sudo su
 #apt-get update -y && apt-get upgrade -y && apt-get install git -y
-#git clone https://github.com/Vitaliy216/zabbix.git && cd zabbix && chmod +x agent-install.sh server-install.sh
+#git clone https://github.com/Vitaliy216/zabbix.git && cd zabbix && chmod +x agent-install.sh server-install-new.sh
 #./server-install-new.sh
 
 apt-get update -y && apt-get upgrade -y
